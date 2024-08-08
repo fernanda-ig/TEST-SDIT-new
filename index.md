@@ -14,7 +14,7 @@ title: demo web site
 The primary aim of this one day symposium is to provide a venue for disseminating useful open-access datasets, software, protocols and other resources for academics to aid their future research projects. This symposium (SDIT) provides a convenient and concentrated platform that allows a simple and practical dissemination of research outputs developed as primary or secondary outputs from past/current research projects. These additional research outputs or resources can take multiple forms, ranging from datasets, laboratory protocols, questionnaires, software scripts, and more. The symposium will feature a modular structure, allowing attendees to focus on specific resource blocks of interest, such as blocks on “financial datasets” or blocks on “code for health data analytics”. 
 
 # Key Highlights
-* Obtain a DOI for your resources via Figshare: Prior to the symposium we will provide resources or sessions on the use of FigShare, an “all in one (open) repository” that will provide a DOI for your additional research outputs. You can check outputs within your department at [](https://figshare.manchester.ac.uk/groups)
+* Obtain a DOI for your resources via Figshare: Prior to the symposium we will provide resources or sessions on the use of FigShare, an “all in one (open) repository” that will provide a DOI for your additional research outputs. You can check outputs within your department at [link](https://figshare.manchester.ac.uk/groups)
 * Disseminate your work and your primary or secondary outputs: Although the results in the form of academic research articles are often the primary research output, there are often secondary by-products that are developed. This symposium provides a venue to disseminate your work to others and for you to learn of resources that others have produce that may be of use in your future research.
 * Obtain condense insight into multiple open access resources: All resources or tools accepted to the conference will be open access or will have clear instructions on how to access them and how to use them.
 * Local symposium: The symposium is initially focusing on internal or closely link participation, as a way to promote and enhance interdisciplinary and cross-school/department/faculty collaboration. 
@@ -29,7 +29,7 @@ A day between 2nd of December and December 6th 2024
 Please let us know via the following link: https://forms.office.com/e/bD0ksZ4ctq
 
 # Submission Format
-Talks and posters: A one page long abstract focusing on presenting the secondary research output (Data/Software/ Information Collection Tools/etc) as well as the research context in which the resource was developed. The submission could also provide examples of usage or potential applications, extensions, generalisations, etc.
+**Talks and posters:** A one page long abstract focusing on presenting the secondary research output (Data/Software/ Information Collection Tools/etc) as well as the research context in which the resource was developed. The submission could also provide examples of usage or potential applications, extensions, generalisations, etc.
 Accepted submissions will be required to upload their secondary research output to an open access archive platform (which can be different to FigShare) prior to the symposium. The organisations of the symposium will provide an online session or additional resources on how to upload your secondary research output to FigShare prior to the symposium.
 
 Submission Deadline: TBC
