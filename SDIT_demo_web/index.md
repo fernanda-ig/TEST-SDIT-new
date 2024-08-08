@@ -3,6 +3,7 @@ title: Software, Data, and Information Collection Tools Secondary research outpu
 ---
 
 **Venue:** Alliance Manchester Business School
+
 **Contact:** luis.ospina-forero@manchester.ac.uk 
 
 # A local Symposium
