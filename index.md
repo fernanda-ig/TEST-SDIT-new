@@ -1,6 +1,9 @@
 ---
-title: Software, Data, and Information Collection Tools Secondary research outputs in/for industry
+layout: default 
+title: demo web site
 ---
+
+**Software, Data, and Information Collection Tools Secondary research outputs in/for industry**
 
 **Venue:** Alliance Manchester Business School
 
