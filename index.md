@@ -26,7 +26,7 @@ A day between 28th of October to November 1st 2024
 Or 
 A day between 2nd of December and December 6th 2024
 
-Please let us know via the following link: https://forms.office.com/e/bD0ksZ4ctq
+Please let us know via the following link: [https://forms.office.com/e/bD0ksZ4ctq](https://forms.office.com/e/bD0ksZ4ctq)
 
 # Submission Format
 **Talks and posters:** A one page long abstract focusing on presenting the secondary research output (Data/Software/ Information Collection Tools/etc) as well as the research context in which the resource was developed. The submission could also provide examples of usage or potential applications, extensions, generalisations, etc.
@@ -46,6 +46,6 @@ Secure your spot now and take advantage of the collection of resources presented
 Yes! If your Data/Code/protocol/pipeline/ has the potential to be considered for applications on an any industry related sector, then yes. For example, if you have created a laboratory protocol on how to grow a given bacteria, this protocol may have potential relevance in the health or environment conservation sectors.
 
 2.	Are there examples of what the FigShare submission could look like?
-*	Dataset: https://doi.org/10.48420/23995437.v1
+*	Dataset: [https://doi.org/10.48420/23995437.v1](url)
 
 Don't miss out on this opportunity to stay ahead with readily available resources and collaboration opportunities!
